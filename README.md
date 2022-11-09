@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **AWS**
 
+At the moment I'm looking for a job. Here is my [resume](https://github.com/scOnlineResume/scOnlineResume/blob/main/Resume.pdf).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shabab-chowdhury-2b3952174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabab-chowdhury-2b3952174" height="30" width="40" /></a>
