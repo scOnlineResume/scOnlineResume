@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm SC</h1>
+<h1 align="center">Hi, I'm Shabab</h1>
 <h3 align="center">A passionate IT Professional from Australia 🇦🇺.</h3>
+
+I studied Electrical Engineering and Cyber Security. I enjoy programming things using Python. I am currently looking for a job in the IT sector.
 
 - 🔭 I’m currently working on **Pseudo 3D Game Engine**
 
