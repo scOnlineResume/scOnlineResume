@@ -2,10 +2,6 @@
 <h3 align="center">IT Professional from Australia 🇦🇺.</h3>
  
 
-- 🔭 I’m currently working on **Pseudo 3D Game Engine**
-
-- 🌱 I’m currently learning **AWS**
-
 At the moment I'm looking for a job. Here is my [resume](https://github.com/scOnlineResume/scOnlineResume/blob/main/Resume.pdf).
 
 <h3 align="left">Connect with me:</h3>
